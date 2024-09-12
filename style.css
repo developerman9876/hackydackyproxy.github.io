@@ -1,0 +1,41 @@
+body {
+    /* background-image: url(../assets/images/wallpaper.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto; */
+    background-color: rgb(25, 25, 25);
+}
+
+/* Top navigation bar */
+.topnav {
+    background-color: rgb(60, 0, 226);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial;
+    transition-duration: 0.4s;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(40, 0, 196);
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #666565;
+    color: white;
+  }
+  
+  

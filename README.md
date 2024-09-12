@@ -1,2 +1,1 @@
-# hackydackyproxy.github.io
-just a proxy
+it just a wip proxy bro
