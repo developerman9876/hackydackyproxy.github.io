@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <link rel="icon" type="image/x-icon" href="../assets/images/favicon.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>developerman's website ;)</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../buttonstyle.css">
+</head>
+<body>
+    <div class="topnav">
+        <a class="active">Home</a>
+        <a href="../games.html">Download Center</a>
+        <a href="../changelog.html">Changelog</a>
+        <a href="../about.html">About</a>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+        <iframe src="https://forkphorus.github.io/embed.html?id=220672247&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+    </div>
+</body>
+</html>
